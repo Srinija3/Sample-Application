@@ -1,2 +1,3 @@
 # Python Spark
-Hello
+Hello,
+this is sample python spark project
